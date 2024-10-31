@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce order delivery or pickup with date and time\n"
+"POT-Creation-Date: 2021-02-01 20:58+0530\n"
+"PO-Revision-Date: 2021-02-01 20:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: BYCONSOLE support@byconsole.com\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: ByConsoleWooODTRestro.php\n"
+
+#: ByConsoleWooODTRestro.php:302
+msgid "Delivery|pickup|dinr in widget"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:308
+#, fuzzy
+#| msgid "Widget for users to choose time and date of delivery"
+msgid "Widget for users to choose date & time of delivery|pickup|dine in"
+msgstr "Widget für Benutzer, um Zeit und Datum der Lieferung zu wählen"
+
+#: ByConsoleWooODTRestro.php:448 ByConsoleWooODTRestro.php:1244
+#: ByConsoleWooODTRestro.php:2008 ByConsoleWooODTRestro.php:2419
+msgid "Take away"
+msgstr "Wegbringen"
+
+#: ByConsoleWooODTRestro.php:462 ByConsoleWooODTRestro.php:1262
+#: ByConsoleWooODTRestro.php:2030 ByConsoleWooODTRestro.php:2238
+#: ByConsoleWooODTRestro.php:2441
+msgid "Delivery"
+msgstr "Delivery"
+
+#: ByConsoleWooODTRestro.php:476 ByConsoleWooODTRestro.php:1280
+#: ByConsoleWooODTRestro.php:2052 ByConsoleWooODTRestro.php:2260
+#: ByConsoleWooODTRestro.php:2463
+msgid "Dine in"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:490 ByConsoleWooODTRestro.php:1298
+msgid "Choose your date"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:504
+msgid "Choose your time"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:532
+msgid "What accommodation we need to provide you"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:932
+msgid "New title"
+msgstr "New title"
+
+#: ByConsoleWooODTRestro.php:946
+msgid "Title:"
+msgstr "Titel:"
+
+#: ByConsoleWooODTRestro.php:1316
+msgid "Select time"
+msgstr "Wählen Sie die Zeit aus"
+
+#: ByConsoleWooODTRestro.php:1334 ByConsoleWooODTRestro.php:2106
+msgid "Number of guest"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1352
+msgid "What accommodation you need"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1368 ByConsoleWooODTRestro.php:1432
+msgid "Select order type"
+msgstr "Wählen Sie den Auftragstyp"
+
+#: ByConsoleWooODTRestro.php:1384
+msgid "Choose a date"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1398
+msgid "Choose a time"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1601
+msgid "Tell us about number of guest(s)"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1682
+msgid "Tell us if you need any of these below accommodations"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1810
+msgid "Pickup / Delivery / Dine in date is a required field."
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:1820
+#, fuzzy
+#| msgid "Time field text:"
+msgid "Time is a required field."
+msgstr "Zeitfeldtext:"
+
+#: ByConsoleWooODTRestro.php:2070 ByConsoleWooODTRestro.php:2485
+#, fuzzy
+#| msgid "Select order type"
+msgid "Order type"
+msgstr "Wählen Sie den Auftragstyp"
+
+#: ByConsoleWooODTRestro.php:2082 ByConsoleWooODTRestro.php:2477
+#, fuzzy
+#| msgid "Delivery date"
+msgid "Delivery|Pickup|dine in date"
+msgstr "Lieferdatum"
+
+#: ByConsoleWooODTRestro.php:2094
+#, fuzzy
+#| msgid "Delivery time"
+msgid "Delivery|Pickup|dine in time"
+msgstr "Lieferzeit"
+
+#: ByConsoleWooODTRestro.php:2108
+msgid "Accomodation requested "
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:2186 ByConsoleWooODTRestro.php:2298
+msgid "This order is for"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:2216
+msgid "Pickup"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:2270
+msgid "Number of guest(s)"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:2280
+msgid "Accommodation requested"
+msgstr ""
+
+#: ByConsoleWooODTRestro.php:2310
+#, fuzzy
+#| msgid "Select date"
+msgid " date"
+msgstr "Datum auswählen"
+
+#: ByConsoleWooODTRestro.php:2322
+#, fuzzy
+#| msgid "Select time"
+msgid " time"
+msgstr "Wählen Sie die Zeit aus"
+
+#: ByConsoleWooODTRestro.php:2481
+#, fuzzy
+#| msgid "Delivery time"
+msgid "Delivery|Pickup|Dine in time"
+msgstr "Lieferzeit"
+
+#: ByConsoleWooODTRestro.php:3195 ByConsoleWooODTRestro.php:3285
+#: ByConsoleWooODTRestro.php:3371
+msgid "We are closed now, please select another day"
+msgstr "Wir sind jetzt geschlossen, bitte wählen Sie einen anderen Tag"
+
+#: ByConsoleWooODTRestro.php:3781 ByConsoleWooODTRestro.php:3825
+msgid "Please select date again"
+msgstr "Bitte wählen Sie das Datum erneut"
+
+#: inc/admin.php:153 inc/admin.php:179 inc/admin.php:203 inc/admin.php:227
+#: inc/admin.php:285 inc/admin.php:339 inc/admin.php:347 inc/admin.php:369
+#: inc/admin.php:377 inc/admin.php:401 inc/admin.php:409 inc/admin.php:431
+#: inc/admin.php:553 inc/admin.php:575 inc/admin.php:597
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin.php:157
+msgid "Texts to display on checkout page as section heading."
+msgstr "Texte zur Anzeige auf der Kasse Seite als Abschnitt Überschrift."
+
+#: inc/admin.php:183
+msgid "displayed as calendar label on checkout page."
+msgstr "Wird als Kalender-Label auf der Checkout-Seite angezeigt."
+
+#: inc/admin.php:207 inc/admin.php:231
+msgid "displayed as time drop-down label on checkout page."
+msgstr "wird als Zeit-Dropdown-Etikett auf der Kasse angezeigt."
+
+#: inc/admin.php:269
+msgid "24 hours or 12 hours with AM / PM."
+msgstr "24 Stunden oder 12 Stunden mit AM / PM."
+
+#: inc/admin.php:289
+msgid ""
+"Leave blank to not set and pre-order days, this is number of days customer "
+"can pre order in advance."
+msgstr ""
+"Lassen Sie das Feld leer, um die Tage nicht festzulegen und vorzubestellen. "
+"Dies ist die Anzahl der Tage, die der Kunde im Voraus bestellen kann."
+
+#: inc/admin.php:319
+msgid "Make time selection mendatory."
+msgstr ""
+
+#: inc/admin.php:335 inc/admin.php:365 inc/admin.php:397
+msgid "From"
+msgstr "Von"
+
+#: inc/admin.php:343 inc/admin.php:373 inc/admin.php:405
+msgid "To"
+msgstr "Nach"
+
+#: inc/admin.php:351
+msgid "Allowable Pickup Time."
+msgstr "Zulässige Abholzeit."
+
+#: inc/admin.php:381
+msgid "Allowable Delivery Time."
+msgstr "Zulässige Lieferzeit"
+
+#: inc/admin.php:413
+#, fuzzy
+#| msgid "Allowable Delivery Time."
+msgid "Allowable Dine in Time."
+msgstr "Zulässige Lieferzeit"
+
+#: inc/admin.php:435
+msgid "This is visible on widget front end if customer has chosen delivery."
+msgstr ""
+"Dies ist am Widget-Frontend sichtbar, wenn der Kunde die Lieferung "
+"ausgewählt hat."
+
+#: inc/admin.php:459
+msgid "Take away label shown on checkout page and in widget."
+msgstr "Nehmen Sie das Etikett auf der Kasse und im Widget auf."
+
+#: inc/admin.php:479
+msgid "Delivery label shown on checkout page and in widget."
+msgstr "Auslieferungsetikett auf der Kasse Seite und im Widget."
+
+#: inc/admin.php:501
+#, fuzzy
+#| msgid "Delivery label shown on checkout page and in widget."
+msgid "Dinein label shown on checkout page and in widget."
+msgstr "Auslieferungsetikett auf der Kasse Seite und im Widget."
+
+#: inc/admin.php:521
+msgid "Placeholder text for date-picker calendar input box."
+msgstr "Platzhaltertext für Datumsauswahlkalender Eingabefeld."
+
+#: inc/admin.php:539
+msgid "Placeholder text for time drop-down input box."
+msgstr "Platzhaltertext für Zeitdropdown-Eingabefeld."
+
+#: inc/admin.php:557 inc/admin.php:579 inc/admin.php:601
+#, fuzzy
+#| msgid "This is the text showed in Order Delivered page."
+msgid "This is the text is shown on Order details page of customer side."
+msgstr ""
+"Dies ist der Text, der auf der Seite \"Bestellung geliefert\" angezeigt wird."
+
+#: inc/admin.php:561
+msgid "Eg: The order will be delivered on"
+msgstr "ZB: Der Auftrag wird ausgeliefert"
+
+#: inc/admin.php:561 inc/admin.php:583 inc/admin.php:605
+msgid "at"
+msgstr "beim"
+
+#: inc/admin.php:583
+#, fuzzy
+#| msgid "Eg: The order can be Picked Up on"
+msgid "Eg: The order can be Pick Up on"
+msgstr "ZB: Die Bestellung kann abgeholt werden"
+
+#: inc/admin.php:605
+msgid "Eg: Please be appear on"
+msgstr ""
+
+#: inc/admin.php:605
+msgid "to have a wonderful dining experience"
+msgstr ""
+
+#: inc/admin.php:635
+#, fuzzy
+#| msgid ""
+#| "Choose if tracking text have to be shown on top(before order product "
+#| "list) or bottom(after product list)."
+msgid ""
+"Choose if date time text have to be shown on top (before order product list) "
+"or bottom (after product list)."
+msgstr ""
+"Wählen Sie aus, ob der Tracking-Text oben angezeigt werden soll (vor "
+"Auftragsliste) oder unten (nach Produktliste)."
+
+#: inc/admin.php:655
+msgid "Allow order for:"
+msgstr ""
+
+#: inc/admin.php:659
+msgid "Preorder Days:"
+msgstr "Vorbestellungstage:"
+
+#: inc/admin.php:663
+#, fuzzy
+#| msgid "Time field text:"
+msgid "Time field is required:"
+msgstr "Zeitfeldtext:"
+
+#: inc/admin.php:667
+msgid "Pickup Hours:"
+msgstr ""
+
+#: inc/admin.php:671
+msgid "Delivery Hours:"
+msgstr "Lieferzeiten:"
+
+#: inc/admin.php:675
+#, fuzzy
+#| msgid "Opening Hours:"
+msgid "Dine in Hours:"
+msgstr "Öffnungszeiten:"
+
+#: inc/admin.php:679
+msgid "Minimum delivery Times:"
+msgstr "Mindestlieferzeiten:"
+
+#: inc/admin.php:683
+#, fuzzy
+#| msgid "Pickup lable text:"
+msgid "Pickup label text:"
+msgstr "Tonabnehmertext:"
+
+#: inc/admin.php:687
+#, fuzzy
+#| msgid "Delivery lable text:"
+msgid "Delivery label text:"
+msgstr "Lieferung Etikettentext:"
+
+#: inc/admin.php:691
+#, fuzzy
+#| msgid "Delivery lable text:"
+msgid "Dine in label text:"
+msgstr "Lieferung Etikettentext:"
+
+#: inc/admin.php:695
+msgid "Date field text:"
+msgstr "Datumsfeld Text:"
+
+#: inc/admin.php:699
+msgid "Time field text:"
+msgstr "Zeitfeldtext:"
+
+#: inc/admin.php:703
+msgid "The order will be delivered:"
+msgstr "Der Auftrag wird geliefert:"
+
+#: inc/admin.php:707
+msgid "The order can be Pickup:"
+msgstr "Der Auftrag kann Pickup sein:"
+
+#: inc/admin.php:711
+msgid "Dine in schedule:"
+msgstr ""
+
+#: inc/admin.php:715
+msgid "Position of the text in the orders page:"
+msgstr "Position des Textes auf der Bestellseite:"
+
+#: inc/admin.php:719
+msgid "Checkout page section heading"
+msgstr "Checkout Seite Abschnitt Überschrift"
+
+#: inc/admin.php:723
+msgid "Order type label on checkout page:"
+msgstr "Auftragsartenetikett auf der Kassenseite:"
+
+#: inc/admin.php:727
+msgid "Calendar label on checkout page:"
+msgstr "Kalender-Label auf der Checkout-Seite:"
+
+#: inc/admin.php:731
+#, fuzzy
+#| msgid "Time select label on checkout page:"
+msgid "Time field label on checkout page:"
+msgstr "Zeitauswahl-Label auf der Checkout-Seite:"
+
+#: inc/admin.php:735
+msgid "Time format:"
+msgstr "Zeitformat:"
+
+#: inc/byconsolewooodtrestro_holiday_management.php:511
+msgid "Pickup Holidays:"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_holiday_management.php:517
+#, fuzzy
+#| msgid "Delivery Hours:"
+msgid "Delivery Holidays:"
+msgstr "Lieferzeiten:"
+
+#: inc/byconsolewooodtrestro_holiday_management.php:521
+msgid "Dine in Holidays:"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:165
+msgid ""
+"We will get back to you soon regarding your request. Alternatively you can "
+"query about your request by emailing to support@byconsole.com/developer."
+"byconsole@gmail.com"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:509
+msgid "Please enter your name"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:529
+msgid "Please enter your email"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:549
+msgid "Please enter modification details"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:585
+msgid "Please check the checkbox before sending your information"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:629
+msgid "Site Url"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:649
+msgid "Name"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:669
+msgid "Email"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:689
+msgid "Details"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:709
+msgid "I agree to send above informations to ByConsole Support Team"
+msgstr ""
+
+#: inc/byconsolewooodtrestro_modification_request_details.php:721
+msgid "Send"
+msgstr ""
+
+#~ msgid "Order delivery time widget"
+#~ msgstr "Bestellung Lieferzeit Widget"
+
+#~ msgid "Select delivery type"
+#~ msgstr "Lieferart auswählen"
+
+#~ msgid "Enter your desired delivery date."
+#~ msgstr "Geben Sie das gewünschte Lieferdatum ein."
+
+#~ msgid "Enter your desired delivery time."
+#~ msgstr "Geben Sie Ihre gewünschte Lieferzeit ein."
+
+#~ msgid "Delivery type"
+#~ msgstr "Lieferart"
+
+#~ msgid "The pro version includes:"
+#~ msgstr "Die Pro-Version beinhaltet:"
+
+#~ msgid "1) Set multiple delivery/pickup locations as many as you wish."
+#~ msgstr ""
+#~ "1) Stellen Sie mehrere Liefer- / Abholorte so viele ein, wie Sie es "
+#~ "wünschen."
+
+#~ msgid ""
+#~ "2) Option to make your store as delivery only or pickup only or keep both."
+#~ msgstr ""
+#~ "2) Option, um Ihr Geschäft nur als Lieferung oder Abholung zu machen oder "
+#~ "beides zu behalten."
+
+#~ msgid ""
+#~ "3) Set shop closing days based on week/week-end days like (every Sunday/"
+#~ "Monday/../..)"
+#~ msgstr ""
+#~ "3) Set-Shop-Abschlusstage auf der Grundlage von Wochen- / Wochenendtagen "
+#~ "wie (jeden Sonntag / Montag / ../ ..)"
+
+#~ msgid "4) Set casual holidays on each month calendar."
+#~ msgstr "4) Setzen Sie beiläufige Feiertage auf jedem Monat Kalender."
+
+#~ msgid "5) Set National/public holiday."
+#~ msgstr "5) Set Nationaler Feiertag."
+
+#~ msgid "6) Set delivery/pickup break time."
+#~ msgstr "6) Liefer- / Abholzeit einstellen."
+
+#~ msgid "7) Disable/enable delivery/pickup."
+#~ msgstr "7) Deaktivieren / Aktivieren der Zustellung / Abholung."
+
+#~ msgid "8) Minimum lead time / wait time."
+#~ msgstr "8) Mindestvorlaufzeit / Wartezeit."
+
+#~ msgid "9) Free support on up to three domains."
+#~ msgstr "9) Kostenlose Unterstützung auf bis zu drei Domains."
+
+#~ msgid "10) Set on which day(s) you will allow pickup."
+#~ msgstr "10) An welchem Tag (s) können Sie Pickup erlauben."
+
+#~ msgid "11) Set on which day(s) you will allow delivery."
+#~ msgstr "11) Stellen Sie an, an welchem Tag (s) Sie die Lieferung zulassen."
+
+#~ msgid ""
+#~ "12) Different delivery times for each delivery location (from v-1.0.3.0)."
+#~ msgstr "12) Verschiedene Lieferzeiten für jeden Lieferort (ab V-1.0.3.0)."
+
+#~ msgid ""
+#~ "13) Order placing cutoff time for next day delivery (from v-1.0.6.0)."
+#~ msgstr ""
+#~ "13) Reihenfolge der Abgabefrist für die Lieferung am nächsten Tag (ab "
+#~ "v-1.0.6.0)."
+
+#~ msgid ""
+#~ "14) Set minimum order value for each pickup location and/or delivery area "
+#~ "(from v-1.0.3.0)."
+#~ msgstr ""
+#~ "14) Mindestauftragswert für jeden Abholort und / oder Lieferbereich (ab "
+#~ "V-1.0.3.0) festlegen."
+
+#~ msgid ""
+#~ "15)Extra delivery charges for same day/next day/day after tomorrow "
+#~ "delivery (from v-1.0.6.0 and with another addon)."
+#~ msgstr ""
+#~ "15) Zusätzliche Versandkosten für Lieferung am selben Tag / nächsten "
+#~ "Tag / am nächsten Tag (ab v-1.0.6.0 und mit einem weiteren Addon)."
+
+#~ msgid ""
+#~ "16)Day based delivery/pickup times for each delivery/pickup location "
+#~ "(from v-1.0.4.0)."
+#~ msgstr ""
+#~ "16) Tagesbasierte Liefer- / Abholzeiten für jeden Liefer- / Abholort (ab "
+#~ "v-1.0.4.0)."
+
+#~ msgid ""
+#~ "27)Each delivery and pickup location can have separate email address to "
+#~ "receive new order notification mail (from v-1.0.4.0)."
+#~ msgstr ""
+#~ "27) Jeder Liefer- und Abholort kann eine separate E-Mail-Adresse haben, "
+#~ "um neue Auftragsbenachrichtigung zu erhalten (ab V-1.0.4.0)."
+
+#~ msgid ""
+#~ "18)Order placing cut off time for next day delivery/pickup (from "
+#~ "v-1.0.4.1)."
+#~ msgstr ""
+#~ "18) Bestellen Sie die Abschaltzeit für den nächsten Tag Lieferung / "
+#~ "Abholung (ab V-1.0.4.1)."
+
+#~ msgid ""
+#~ "19)Short code to list up all your delivery/pickup points(from v-1.0.5.0)."
+#~ msgstr ""
+#~ "19) Kurzcode, um alle Ihre Liefer- / Abholpunkte aufzulisten (ab "
+#~ "V-1.0.5.0)."
+
+#~ msgid ""
+#~ "20)Short code to place order type date time location widget on "
+#~ "anywhere(from v-1.0.5.0)."
+#~ msgstr ""
+#~ "20) Kurzcode, um Auftragsart Datum Zeit Ort Widget auf irgendwo (ab "
+#~ "v-1.0.5.0) zu platzieren."
+
+#~ msgid ""
+#~ "21)Short code to display order date time location and type on any other "
+#~ "pages/plugin(from v-1.0.5.0)."
+#~ msgstr ""
+#~ "21) Kurzcode zum Anzeigen der Datumszeit der Bestellung und geben Sie auf "
+#~ "andere Seiten / Plugin (ab v-1.0.5.0) ein."
+
+#~ msgid ""
+#~ "22)Lead time management for orders posted on store closing days(from "
+#~ "v-1.0.6.0)."
+#~ msgstr ""
+#~ "22) Lead-Time-Management für Aufträge, die an Filialschluss-Tagen (ab "
+#~ "V-1.0.6.0) veröffentlicht wurden."
+
+#~ msgid ""
+#~ "23)Option to limit number of orders per time slot per location(from "
+#~ "v-1.0.6.0)."
+#~ msgstr ""
+#~ "23) Option zur Begrenzung der Anzahl der Aufträge pro Zeitschlitz pro "
+#~ "Standort (ab V-1.0.6.0)."
+
+#~ msgid ""
+#~ "24)Assign extra shipping charges per delivery areas / pickup hubs (from "
+#~ "v-1.0.6.0)."
+#~ msgstr ""
+#~ "24) Zusätzliche Versandkosten je Liefergebiete / Abholnaben (ab "
+#~ "V-1.0.6.0) zuordnen."
+
+#~ msgid ""
+#~ "25)Provide discount when it is pick up or add extra charge when it is "
+#~ "delivery (With our another plugin)."
+#~ msgstr ""
+#~ "25) Geben Sie Rabatt, wenn es abholt oder fügen Sie zusätzliche Gebühr, "
+#~ "wenn es Lieferung (mit unserem anderen Plugin)."
+
+#~ msgid ""
+#~ "26)Product wise location based sale record and option export to CSV file "
+#~ "(With our  another plugin)."
+#~ msgstr ""
+#~ "26) Produkt weise Standort basierte Verkauf Datensatz und Option Export "
+#~ "in CSV-Datei (mit unserem anderen Plugin)."
+
+#~ msgid ""
+#~ "27) Get location on map and customer can pick a location directly from "
+#~ "map(with map add-on plugin)."
+#~ msgstr ""
+#~ "27) Holen Sie sich den Standort auf der Karte und der Kunde kann einen "
+#~ "Ort direkt aus der Karte auswählen (mit Add-On-Plugin für Karten)."
+
+#~ msgid ""
+#~ "28) Suggest nearest pickup location by geo location calculation(with map "
+#~ "add-on plugin)."
+#~ msgstr ""
+#~ "28) Schicken Sie den nächstgelegenen Abholort nach Geo-Standortberechnung "
+#~ "(mit Map-Add-On-Plugin) an."
+
+#~ msgid "29) Create your custom slot for each location."
+#~ msgstr ""
+#~ "29) Erstellen Sie Ihren benutzerdefinierten Slot für jeden Standort."
+
+#~ msgid ""
+#~ "30) Get customized/more extended copy to suit your all needs(may be paid)."
+#~ msgstr ""
+#~ "30) Holen Sie sich maßgeschneiderte / erweiterte Kopie an Ihre "
+#~ "Bedürfnisse anpassen (kann bezahlt werden)."
+
+#~ msgid "This is the text showed in Order Picked Up page."
+#~ msgstr ""
+#~ "Dies ist der Text, der auf der Seite \"Order Picked Up\" gezeigt wurde."
+
+#~ msgid "Enter delivery date"
+#~ msgstr "Lieferdatum eingeben"
+
+#~ msgid "Enter delivery time"
+#~ msgstr "Lieferzeit eingeben"
+
+#~ msgid "2) Disable/enable multiple delivery/pickup locations."
+#~ msgstr "2) Deaktivieren / Aktivieren mehrerer Liefer- / Abholorte."
